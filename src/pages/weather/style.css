@@ -1,0 +1,8 @@
+body {
+  background-image: url("https://incpak.com/wp-content/uploads/2023/05/johannes-plenio-E-Zuyev2XWo-unsplash.jpg.webp");
+  background-size: cover;
+}
+.input-field:focus {
+  border-bottom: 2px solid white;
+  outline: none;
+}
