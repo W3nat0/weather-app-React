@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import { toast } from "react-toastify";
-import ClipLoader from "react-spinners/ClipLoader"; // Import ClipLoader
+import ClipLoader from "react-spinners/ClipLoader";
 
 import "react-toastify/dist/ReactToastify.css";
 import "./style.css";
